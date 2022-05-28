@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to bottom, red, blue);
+}
+
+a {
+    text-decoration: none;
+    border: 2px black solid;
+    color: white;
+    border-radius: 20px;
+}
+
+a:hover {
+   color: black;
+   border: 2px white solid;
+}
